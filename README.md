@@ -1,6 +1,6 @@
 # searchme
 #### 식품안전나라 레시피 정보api를 활용한 메뉴추천과 레시피제공 android native app
-#### setting
+#### - setting
 - others 폴더의 sql 실행, php코드를 자신의 호스팅된 서버에 추가
 - php 코드내의 접속정보 변경
   ```
@@ -9,7 +9,7 @@
 - android Login.kt, Registeration.kt 코드의 호스팅정보 변경 : baseUrl 을 자신이 호스팅한 주소로 변경
   ```
             val retrofit = Retrofit.Builder()
-            .baseUrl("yours Url") 
+            .baseUrl("your Url") 
             .addConverterFactory(GsonConverterFactory.create())
             .build()
   ```          
@@ -18,10 +18,10 @@
 
 남은 식재료로 만들 수 있는 요리를 매번 생각하는 일은 부담으로 다가온다. 내가 가지고 있는 식재료로 
 만들 수 있는 요리를 출력해주는 서비스가 있다면 출력해준 요리 중 하나를 선택하면 되기 때문에 위 문제를 해결할 수 있다.
-##### - preview (best case)
+#### - preview (best case)
 ![image](https://user-images.githubusercontent.com/81247213/148017281-86f56640-cb28-4055-8a70-4af89139cf07.png)
 
-##### - UI
+#### - UI
 1. login 
 
 ![image](https://user-images.githubusercontent.com/81247213/148018721-9b7eaba9-427d-4216-9cba-543d91bbd329.png)
@@ -53,7 +53,7 @@
 
 ![image](https://user-images.githubusercontent.com/81247213/148019481-642aabe7-c5b1-43b5-9fdc-56f2c5aaefa1.png)
 
-##### Reference
+#### - Reference
 > retrofit2 - https://stickode.tistory.com/43
 > retrofit2 - https://square.github.io/retrofit/
 > 서적 - 이것이 안드로이드다 with 코틀린 
