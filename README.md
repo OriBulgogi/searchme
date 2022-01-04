@@ -28,17 +28,17 @@
 
 2. Registration
 - 선호하는 조리법, 자신의 알러지정보 등록가능 해당 정보는 레시피 추천시 알러지 재료 제외, 선호도에 따른 출력 순서 반영되어짐 
-- 
+
 ![image](https://user-images.githubusercontent.com/81247213/148018865-3a5e8db9-1917-41a8-ba68-d4fa51b1bbe8.png)
 
 3. 재료선택
 - 가지고있는 재료를 선택
-- 
+
 ![image](https://user-images.githubusercontent.com/81247213/148019301-69addf58-7989-4d43-80c3-e7abf6ef18ea.png)
 
 4. 메뉴선택
 - 일치하는 재료, 부족한 재료를 알려주고 메뉴이름버튼을 누르면 레시피화면으로 이동
-- 
+
 ![image](https://user-images.githubusercontent.com/81247213/148019345-3660aac2-ce50-41e3-bd0e-f6cdd1bddc5b.png)
 
 ![image](https://user-images.githubusercontent.com/81247213/148019411-beff3058-0dc7-49af-ba70-5fe22c21fc89.png)
@@ -46,7 +46,7 @@
 
 5. 레시피
 - 영양정보와 조리법을 순서대로 알려준다.
-- 
+
 ![image](https://user-images.githubusercontent.com/81247213/148019447-64bbe624-90f3-43a9-9b15-b9382c5a6b96.png)
 
 ![image](https://user-images.githubusercontent.com/81247213/148019503-6f483c1e-0906-42cc-b415-dfbcfd873f4b.png)
