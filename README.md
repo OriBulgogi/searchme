@@ -52,3 +52,14 @@
 ![image](https://user-images.githubusercontent.com/81247213/148019503-6f483c1e-0906-42cc-b415-dfbcfd873f4b.png)
 
 ![image](https://user-images.githubusercontent.com/81247213/148019481-642aabe7-c5b1-43b5-9fdc-56f2c5aaefa1.png)
+
+##### Reference
+> retrofit2 - https://stickode.tistory.com/43
+> retrofit2 - https://square.github.io/retrofit/
+> 서적 - 이것이 안드로이드다 with 코틀린 
+> https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView
+> https://developer.android.com/reference/android/content/Intent
+> https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.ViewHolder
+> https://developer.android.com/training/volley
+
+
